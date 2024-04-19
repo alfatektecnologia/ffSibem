@@ -1,0 +1,22 @@
+{
+  "indexes": [
+    {
+      "collectionGroup": "igrejas",
+      "queryScope": "COLLECTION",
+      "fields": [
+        {
+          "fieldPath": "id_setor",
+          "order": "ASCENDING"
+        },
+        {
+          "fieldPath": "situacao",
+          "order": "ASCENDING"
+        },
+        {
+          "fieldPath": "lastInventario",
+          "order": "ASCENDING"
+        }
+      ]
+    }
+  ]
+}

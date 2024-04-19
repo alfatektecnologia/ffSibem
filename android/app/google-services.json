@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "621032075696",
+    "firebase_url": "https://sibem-9cd5f-default-rtdb.firebaseio.com",
+    "project_id": "sibem-9cd5f",
+    "storage_bucket": "sibem-9cd5f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:621032075696:android:f93c8b99424c8534c02675",
+        "android_client_info": {
+          "package_name": "br.com.alfatek.sibem"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "621032075696-ftm9unphku0u9b9g5j1qkcnr2rv37gca.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDsnlo9N2-dDXuv-3HIrjSW2vpPNiHqA4k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "621032075696-ftm9unphku0u9b9g5j1qkcnr2rv37gca.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:621032075696:android:903adc1481508a6dc02675",
+        "android_client_info": {
+          "package_name": "com.alfatek.sibem"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "621032075696-ftm9unphku0u9b9g5j1qkcnr2rv37gca.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDsnlo9N2-dDXuv-3HIrjSW2vpPNiHqA4k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "621032075696-ftm9unphku0u9b9g5j1qkcnr2rv37gca.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
